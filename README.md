@@ -1,5 +1,5 @@
 # Website
-Direct WEBSITE LINK- https://somya-garg26.github.io/Website/
+Direct WEBSITE LINK-  https://somya-garg26.github.io/
 User Registration & Login Website
   This project demonstrates how to create a basic Registration and Login workflow using HTML, CSS, and JavaScript. 
  ##Overview
